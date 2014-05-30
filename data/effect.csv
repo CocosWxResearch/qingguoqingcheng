@@ -1,0 +1,14 @@
+name,particleName,startTime,duration,particleType
+monsterClick,model/scene/clickTarget/monsterClick.anim,0,-1,2
+hamaTearLeft,model/scene/hamaTear/hamaTearLeft.anim,0,-1,2
+hamaTearRight,model/scene/hamaTear/hamaTearRight.ainm,0,-1,2
+luoye1,model/scene/luoye/luoye1.anim,0,-1,2
+pubushang,model/scene/pubu/pubushang.anim,0,-1,2
+shuibo,model/scene/shuibo/shuibo.anim,0,-1,2
+wuya,model/scene/wuya/wuya.anim,0,-1,2
+xiaohudie,model/scene/hudie/xiaohudie.anim,0,-1,2
+pubuyou,model/scene/pubu/pubuyou.anim,0,-1,2
+pubuzuo,model/scene/pubu/pubuzuo.anim,0,-1,2
+finishTask,model/scene/task/finishTask.anim,0,1.25,2
+acceptTask,model/scene/task/acceptTask.anim,0,1.25,2
+deadEffect,model/skill/dead/dead.anim,0,1,2
