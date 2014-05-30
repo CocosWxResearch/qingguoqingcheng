@@ -1,6 +1,6 @@
 filelist:
-config		配置文件夹
-game		游戏主文件夹
-ui		UI
-utils		
-wing		飞剑
+config	
+game
+ui
+utils
+wing
